@@ -1,0 +1,17 @@
+
+
+                    body {
+                        background-color:plum;}
+                   
+               footer {
+                        background-color: black;
+                        color: white;
+                }
+                
+                footer {
+                    background-color: rgb(153, 0, 255);
+                    color: black;
+                    position: fixed;
+                    bottom: 0;
+                    width: 100;
+                    }
